@@ -34,7 +34,7 @@ main_placefolder = st.empty()
 # Initialize LLM
 llm = ChatGroq(
     model_name="llama-3.3-70b-versatile",
-    temperature=0.5,
+    temperature=0.9,
     max_tokens=700
 )
 
@@ -52,8 +52,8 @@ if process_url_clicked:
     # Split Data
     text_splitter = RecursiveCharacterTextSplitter(
         separators=["\n\n", "\n", ".", " "],
-        chunk_size=1500,
-        chunk_overlap=250
+        chunk_size=1000,
+        chunk_overlap=200
     )
     main_placefolder.text("🔄 Splitting & Structuring Articles... ✅")
     docs = text_splitter.split_documents(data)
