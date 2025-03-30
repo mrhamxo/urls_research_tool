@@ -22,6 +22,10 @@ The **AI-Powered News Intelligence System** is an advanced research tool that le
 - **Other Libraries**:
   - `langchain`, `dotenv`, `pickle`, `time`, `requests`
 
+## Screenshot
+![Image](https://github.com/user-attachments/assets/f58bced1-56cf-4d51-b1f0-c69bf2feaad1)
+![Image](https://github.com/user-attachments/assets/4474ded7-6e30-42cc-899a-236cfe65e740)
+
 ## 📖 Usage Guide
 1. **Enter 1 or up to 3 news article URLs** in the sidebar.
 2. Click **"Process News Articles"** to fetch and analyze content.
