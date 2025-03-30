@@ -40,5 +40,5 @@ The AI-Powered News Intelligence System successfully integrates advanced natural
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For queries, reach out via **mr.hamxa942@gmail.com** or (Linkdin)[https://www.linkedin.com/in/muhammad-hamza-khattak/].
+For queries, reach out via **mr.hamxa942@gmail.com** or [https://www.linkedin.com/in/muhammad-hamza-khattak/].
 
